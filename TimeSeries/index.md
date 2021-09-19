@@ -7,4 +7,5 @@ Here is a Time Series Decomposition as used in CTBA.
 - [Time Series Decomposition (html)](TimeSeries.html)
 - [Time Series Decomposition (ipynb)](TimeSeries.ipynb)
 
-
+Such link contains additional information of Time Series Decomposition
+- [Additional Info](https://github.com/Vanessa-Santacoloma/Sample.git)
