@@ -8,4 +8,3 @@ Here is a Time Series Decomposition as used in CTBA.
 - [Time Series Decomposition (ipynb)](TimeSeries.ipynb)
 
 
-![My Picture](/decomp-example.png)
