@@ -9,5 +9,5 @@ Here is a Time Series Decomposition as used in CTBA.
 
 
 
-Such link contains additional information of Time Series Decomposition
+The repository below contains a link with additional information of Time Series Decomposition:
 - [Additional Info](https://github.com/Vanessa-Santacoloma/Sample.git)
