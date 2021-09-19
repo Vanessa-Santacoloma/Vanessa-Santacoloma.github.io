@@ -3,7 +3,7 @@ title: TimeSeries Decomposition
 description: Course Content
 ---
 
-![My Picture](decomp-examply.png)
+![My Picture](/decomp-example.png)
 
 Here is a Time Series Decomposition as used in CTBA.
 - [Time Series Decomposition (html)](TimeSeries.html)
