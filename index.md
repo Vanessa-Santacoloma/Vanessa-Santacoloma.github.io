@@ -1,6 +1,6 @@
 ---
-title: New Title
-description: New Description
+title: Time Series Decomposition
+description: Deconstucting data into various components to resemble an underlying pattern.
 ---
 
 This is content I've developed for my course:
